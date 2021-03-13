@@ -9,7 +9,6 @@ by asking his some questions and producing a approximately Prognosis Report that
 	- precautions that you should take.
 
 [*] Resources:
-----------------
 This project written by 
 	- python.
  	- with use of SQLite Database packaged by python.
